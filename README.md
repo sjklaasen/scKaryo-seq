@@ -7,7 +7,7 @@ Klaasen, S. et al. (2022)
 
 The repository is organized in two subfolders:
 
-1. data_processing
+1. fastq_processing
 Contains the pipeline to process raw fastqs and generate count tables.
 
 
