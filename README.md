@@ -7,9 +7,9 @@ Klaasen, S. et al. (2022)
 
 The repository is organized in two subfolders:
 
-1. fastq_processing
+**1. fastq_processing**
 Contains the pipeline to process raw fastqs and generate count tables.
 
 
-2. figures
+**2. figures**
 Contains the R scripts to main the subfigures for the manuscript.
